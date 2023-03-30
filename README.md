@@ -6,10 +6,6 @@ Usage
 
 To run the simulation, simply run the script. The simulation will run and display the percentage of radiated power for each iteration.
 
-Usage
-
-To run the simulation, simply run the script in MATLAB. The simulation will run and display the percentage of radiated power for each iteration.
-
 You can change the following variables to customize the simulation:
 
     x1: x-coordinate of the first corner of the square area
